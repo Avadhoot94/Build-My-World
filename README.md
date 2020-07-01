@@ -1,5 +1,5 @@
-# Udacity Nanodegree: Robotics Software Engineer
-## Project 01/05 : Build My World
+# Udacity Nanodegree: Robotics Software Engineer 
+## Project 01/05 : Build My World 
 
 
 ```bash
@@ -21,5 +21,6 @@ Project1                     # Parent folder (/home/robond/workspace)
     └── world1.world         # Gazebo World file (contains the above models) 
 ```
 
-###Output
+### **Description**
+<img src="Output/Output.PNG">
 
