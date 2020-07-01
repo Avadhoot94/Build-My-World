@@ -1,4 +1,4 @@
-<img src="Udacity_banner2.jpg" height ="20">
+<img src="udacity_banner.jpg" height ="20">
 
 ### Robotics Software Engineer - Nanodegree
 
