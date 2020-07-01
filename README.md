@@ -13,7 +13,7 @@ Project1                     # Parent folder (/home/robond/workspace)
 │   │── robodog              # Model of robot
 │   │  ├── model.config
 │   │  └── model.sdf
-|   └── RoboLeg.STL          # CAD file of Robot's leg (made in SolidWorks)  
+│   └── RoboLeg.STL          # CAD file of Robot's leg (made in SolidWorks)  
 ├── README.md 
 ├── script
 │   └── hello.cpp            # Gazebo World plugin C++ script
