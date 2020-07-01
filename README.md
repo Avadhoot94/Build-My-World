@@ -25,8 +25,8 @@ Build_My_World                  # Parent folder
 
 
 
-### Description
-Designing a Gazebo world which includes building, custom models, Gazebo online library model 
+### Project Goals
+Designing a Gazebo world which includes building, custom models, Gazebo online library model.
 
 Writing a custom C++ plugin which prints message ('Welcome to Avadhoot's world') in the terminal upon launching the gazebo world.
 
