@@ -3,25 +3,22 @@
 
 
 ```bash
-. Build_my_world                  # Workspace directory
+Project1                     # Parent folder (/home/robond/workspace)
 ├── CMakeLists.txt                
-├── docs                          # Results and notes
-│   ├── my_world.png
-│   ├── notes
-│   └── with_output.png
 ├── LICENSE
 ├── model                          
-│   ├── metal_hawk               # Model of robot
+│   ├── building             # Model of environment
 │   │   ├── model.config
 │   │   └── model.sdf
-│   └── my_building              # Model of environment
-│       ├── model.config
-│       └── model.sdf
-├── README.md
+│   |── robodog              # Model of robot
+│   |  ├── model.config
+│   |  └── model.sdf
+|   └── RoboLeg.STL          # CAD file of Robot's leg (made in SolidWorks)  
+├── README.md 
 ├── script
-│   └── welcome_message.cpp      # Gazebo World plugin C++ script
+│   └── hello.cpp            # Gazebo World plugin C++ script
 └── world
-    └── my_world                 # Gazebo main World containing models
+    └── world1.world         # Gazebo World file (contains the above models) 
 ```
 
 Next as
