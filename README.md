@@ -1,7 +1,7 @@
 # Udacity Nanodegree: Robotics Software Engineer 
 ## Project 01/05 : Build My World 
 
-
+### Directory Structure
 ```bash
 Project1                     # Parent folder (/home/robond/workspace)
 ├── CMakeLists.txt                
@@ -21,6 +21,11 @@ Project1                     # Parent folder (/home/robond/workspace)
     └── world1.world         # Gazebo World file (contains the above models) 
 ```
 
-## Description
+### Description
+Designing a Gazebo world, including multiple models and writing a plugin which prints message ('Welcome to Avadhoot's world') in the terminal.
+### Output
+
 <img src="Output/Output.PNG">
 
+### Setup and run
+#### Step 1
