@@ -23,9 +23,17 @@ Build_My_World                  # Parent folder
 │   └── output.PNG
 ```
 
+
+
 ### Description
-Designing a Gazebo world, including multiple models and writing a plugin which prints message ('Welcome to Avadhoot's world') in the terminal.
-### Output
+Designing a Gazebo world which includes building, custom models, Gazebo online library model 
+
+Writing a custom C++ plugin which prints message ('Welcome to Avadhoot's world') in the terminal upon launching the gazebo world.
+
+
+
+
+### Output 
 <img src="output/output.PNG">
 
 ### Setup and run
