@@ -2,7 +2,7 @@
 ## Project 01/05 : Build My World 
 
 ### Directory Structure
-```bash
+```
 Project1                     # Parent folder (/home/robond/workspace)
 ├── CMakeLists.txt                
 ├── LICENSE
@@ -28,4 +28,13 @@ Designing a Gazebo world, including multiple models and writing a plugin which p
 <img src="Output/Output.PNG">
 
 ### Setup and run
-#### Step 1
+#### Step 1 - Update the Workspace image
+```
+$ sudo apt-get update && sudo apt-get upgrade -y 
+```
+
+#### Step 2 - Clone the files in /home/workspace
+```
+$ cd /home/workspace/
+$ git clone https://github.com/Avadhoot94/Build-My-World.git
+```
