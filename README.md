@@ -22,6 +22,6 @@
 │   └── welcome_message.cpp      # Gazebo World plugin C++ script
 └── world
     └── my_world                 # Gazebo main World containing models
-    ```
+```
 
 Next as
