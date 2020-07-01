@@ -1,3 +1,7 @@
+<img src="Udacity_banner2.jpg" height ="20">
+
+### Robotics Software Engineer - Nanodegree
+
 # Project 01 (of 05) : Build My World 
 ## Directory Structure
 ```
@@ -35,17 +39,17 @@ Writing a custom C++ plugin which prints message ('Welcome to Avadhoot's world')
 <img src="output/output.PNG">
 
 ## Setup and run
-#### Step 1 - Update the Workspace image
+#### 1. Update the Workspace image
 ```
 $ sudo apt-get update && sudo apt-get upgrade -y 
 ```
 
-#### Step 2 - Clone the files in /home/workspace
+#### 2. Clone the files in /home/workspace
 ```
 $ cd /home/workspace/
 $ git clone https://github.com/Avadhoot94/Build_My_World.git
 ```
-#### Step 3 - Create a build directory and compile the code
+#### 3. Create a build directory and compile the code
 ```
 $ cd /home/workspace/Build_My_World/
 $ mkdir build
@@ -55,7 +59,7 @@ $ make
 $ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/Build_My_World/build
 ```
 
-#### Step 4 - Launch the world file in Gazebo to load both the world and the plugin
+#### 4. Launch the world file in Gazebo to load both the world and the plugin
 ```
 $ cd /home/workspace/Build_My_World/world/
 $ gazebo world1.world
