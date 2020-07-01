@@ -1,5 +1,5 @@
 # Udacity Nanodegree: Robotics Software Engineer 
-## Project 01/05 : Build My World 
+## Project 01 (of 05) : Build My World 
 ### Directory Structure
 ```
 Build_My_World                  # Parent folder
