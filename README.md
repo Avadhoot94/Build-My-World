@@ -1,6 +1,7 @@
-# Udacity Nanodegree: Robotics Software Engineer 
-## Project 01 (of 05) : Build My World 
-### Directory Structure
+<img src="Udacity_banner.jpg" width="500">
+
+# Project 01 (of 05) : Build My World 
+## Directory Structure
 ```
 Build_My_World                  # Parent folder
 ├── CMakeLists.txt                
@@ -24,7 +25,7 @@ Build_My_World                  # Parent folder
 
 
 
-### Project Goals
+## Project Goals
 Designing a Gazebo world which includes building, custom models, Gazebo online library model.
 
 Writing a custom C++ plugin which prints message ('Welcome to Avadhoot's world') in the terminal upon launching the gazebo world.
@@ -32,10 +33,10 @@ Writing a custom C++ plugin which prints message ('Welcome to Avadhoot's world')
 
 
 
-### Output 
+## Output 
 <img src="output/output.PNG">
 
-### Setup and run
+## Setup and run
 #### Step 1 - Update the Workspace image
 ```
 $ sudo apt-get update && sudo apt-get upgrade -y 
