@@ -117,7 +117,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/robond/workspace/Project1/model/RoboLeg.STL</uri>
+            <uri>/home/workspace/Project1/model/RoboLeg.STL</uri>
             <scale>0.01 0.01 0.01</scale>
           </mesh>
         </geometry>
@@ -144,7 +144,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/robond/workspace/Project1/model/RoboLeg.STL</uri>
+            <uri>/home/workspace/Project1/model/RoboLeg.STL</uri>
             <scale>0.01 0.01 0.01</scale>
           </mesh>
         </geometry>
@@ -215,7 +215,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/robond/workspace/Project1/model/RoboLeg.STL</uri>
+            <uri>/home/workspace/Project1/model/RoboLeg.STL</uri>
             <scale>0.01 0.01 0.01</scale>
           </mesh>
         </geometry>
@@ -242,7 +242,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/robond/workspace/Project1/model/RoboLeg.STL</uri>
+            <uri>/home/workspace/Project1/model/RoboLeg.STL</uri>
             <scale>0.01 0.01 0.01</scale>
           </mesh>
         </geometry>
@@ -313,7 +313,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/robond/workspace/Project1/model/RoboLeg.STL</uri>
+            <uri>/home/workspace/Project1/model/RoboLeg.STL</uri>
             <scale>0.01 0.01 0.01</scale>
           </mesh>
         </geometry>
@@ -340,7 +340,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/robond/workspace/Project1/model/RoboLeg.STL</uri>
+            <uri>/home/workspace/Project1/model/RoboLeg.STL</uri>
             <scale>0.01 0.01 0.01</scale>
           </mesh>
         </geometry>
@@ -411,7 +411,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/robond/workspace/Project1/model/RoboLeg.STL</uri>
+            <uri>/home/workspace/Project1/model/RoboLeg.STL</uri>
             <scale>0.01 0.01 0.01</scale>
           </mesh>
         </geometry>
@@ -438,7 +438,7 @@
         <pose frame=''>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>/home/robond/workspace/Project1/model/RoboLeg.STL</uri>
+            <uri>/home/workspace/Project1/model/RoboLeg.STL</uri>
             <scale>0.01 0.01 0.01</scale>
           </mesh>
         </geometry>
