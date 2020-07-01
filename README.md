@@ -1,5 +1,3 @@
-<img src="Udacity_banner.jpg" width="500">
-
 # Project 01 (of 05) : Build My World 
 ## Directory Structure
 ```
