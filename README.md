@@ -1,32 +1,25 @@
 # Udacity Nanodegree: Robotics Software Engineer
 ## Project 01/05 : Build My World
 
-~> tree -d /proc/self/
-/proc/self/
-|-- attr
-|-- cwd -> /proc
-|-- fd
-|   `-- 3 -> /proc/15589/fd
-|-- fdinfo
-|-- net
-|   |-- dev_snmp6
-|   |-- netfilter
-|   |-- rpc
-|   |   |-- auth.rpcsec.context
-|   |   |-- auth.rpcsec.init
-|   |   |-- auth.unix.gid
-|   |   |-- auth.unix.ip
-|   |   |-- nfs4.idtoname
-|   |   |-- nfs4.nametoid
-|   |   |-- nfsd.export
-|   |   `-- nfsd.fh
-|   `-- stat
-|-- root -> /
-`-- task
-    `-- 15589
-        |-- attr
-        |-- cwd -> /proc
-        |-- fd
-        | `-- 3 -> /proc/15589/task/15589/fd
-        |-- fdinfo
-        `-- root -> /
+
+```bash
+. Build_my_world                  # Workspace directory
+├── CMakeLists.txt                
+├── docs                          # Results and notes
+│   ├── my_world.png
+│   ├── notes
+│   └── with_output.png
+├── LICENSE
+├── model                          
+│   ├── metal_hawk               # Model of robot
+│   │   ├── model.config
+│   │   └── model.sdf
+│   └── my_building              # Model of environment
+│       ├── model.config
+│       └── model.sdf
+├── README.md
+├── script
+│   └── welcome_message.cpp      # Gazebo World plugin C++ script
+└── world
+    └── my_world                 # Gazebo main World containing models
+    ```
