@@ -25,7 +25,6 @@ Project1                     # Parent folder (/home/robond/workspace)
 Designing a Gazebo world, including multiple models and writing a plugin which prints message ('Welcome to Avadhoot's world') in the terminal.
 ### Output
 
-<img src="Output/Output.PNG">
 
 ### Setup and run
 #### Step 1 - Update the Workspace image
