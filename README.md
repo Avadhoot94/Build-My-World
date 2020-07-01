@@ -10,9 +10,9 @@ Project1                     # Parent folder (/home/robond/workspace)
 │   ├── building             # Model of environment
 │   │   ├── model.config
 │   │   └── model.sdf
-│   |── robodog              # Model of robot
-│   |  ├── model.config
-│   |  └── model.sdf
+│   │── robodog              # Model of robot
+│   │  ├── model.config
+│   │  └── model.sdf
 |   └── RoboLeg.STL          # CAD file of Robot's leg (made in SolidWorks)  
 ├── README.md 
 ├── script
