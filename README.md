@@ -5,13 +5,13 @@
 # Project 01 (of 05) : Build My World 
 ## Directory Structure
 ```
-.Build_My_World                  # Parent folder
-├── CMakeLists.txt                
+.Build_My_World                 # Build_My_World package
+├── CMakeLists.txt              # compiler instructions  
 ├── model                          
-│   ├── building                # Model of environment
+│   ├── building                # model of environment
 │   │   ├── model.config
 │   │   └── model.sdf
-│   │── robodog                 # Model of robot
+│   │── robodog                 # model of robot
 │   │  ├── model.config
 │   │  └── model.sdf
 │   └── RoboLeg.STL             # CAD file of Robot's leg (made in SolidWorks)  
@@ -38,6 +38,10 @@ Writing a custom C++ plugin which prints message ('Welcome to Avadhoot's world')
 
 ## Output 
 <img src="output/output.PNG">
+
+
+## Environment
+Tested on Ubuntu 16.04.6 LTS, ROS Kinetic, Boost 1.58
 
 ## Setup and run
 #### 1. Update the Workspace image
