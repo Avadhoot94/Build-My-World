@@ -5,9 +5,8 @@
 # Project 01 (of 05) : Build My World 
 ## Directory Structure
 ```
-Build_My_World                  # Parent folder
+.Build_My_World                  # Parent folder
 ├── CMakeLists.txt                
-├── LICENSE
 ├── model                          
 │   ├── building                # Model of environment
 │   │   ├── model.config
@@ -16,13 +15,15 @@ Build_My_World                  # Parent folder
 │   │  ├── model.config
 │   │  └── model.sdf
 │   └── RoboLeg.STL             # CAD file of Robot's leg (made in SolidWorks)  
-├── README.md 
 ├── script
 │   └── hello.cpp               # Gazebo World plugin C++ script
 ├── world
 │    └── world1.world           # Gazebo World file (contains the above models) 
 ├── output
 │   └── output.PNG
+├── README.md 
+├── LICENSE
+└──
 ```
 
 
